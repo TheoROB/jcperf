@@ -37,14 +37,10 @@ export function Footer() {
           {/* Brand */}
           <div className="lg:col-span-1">
             <a href="#accueil" className="flex items-center gap-3 mb-6">
-              <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-lg">
-                  JC
-                </span>
-              </div>
+              <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center"></div>
               <span className="font-[family-name:var(--font-heading)] text-2xl tracking-wide text-foreground">
                 <img
-                  src="/logo-jcperf.png"
+                  src="/logo_jcperf.png"
                   alt="logo JC Perf"
                   className="rounded-lg w-full"
                 />
