@@ -45,7 +45,7 @@ export function Header() {
               <img
                 src="/logo_jcperf.jpg"
                 alt="logo JC Perf"
-                className="rounded-lg w-full"
+                className="rounded-full w-12 h-12 object-cover"
               />
             </span>
           </a>
