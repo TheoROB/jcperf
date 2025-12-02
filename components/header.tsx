@@ -41,10 +41,9 @@ export function Header() {
       <div className="container mx-auto px-4">
         <nav className="flex items-center justify-between h-16 md:h-20">
           <a href="#accueil" className="flex items-center gap-3">
-            <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center"></div>
             <span className="font-[family-name:var(--font-heading)] text-2xl tracking-wide text-foreground">
               <img
-                src="/logo_jcperf.png"
+                src="/logo_jcperf.jpg"
                 alt="logo JC Perf"
                 className="rounded-lg w-full"
               />
